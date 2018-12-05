@@ -38,8 +38,7 @@ Properly colored variants of the twimoji horoscope set of emojis, secondary vari
 
 [Aquarius]: https://github.com/oct2pus/TW3MOJ1/blob/master/64x64/aquarius.png?raw=true
 
-[Pisces]: https://github.com/oct2pus/TW3MOJ1/blob/master/64x64/pisces.png?raw=true
-
+[Pisces]: https://github.com/oct2pus/TW3MOJ1/blob/master/64x64/pieces.png?raw=true
 
 ## Licence
 
